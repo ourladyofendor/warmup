@@ -1,10 +1,11 @@
 warmup
 ======
 
-cs:go warmip config
+//cs:go warmip config
 
 
 maxplayers "8"
+
 bot_quota "8"
 
 bot_quota_mode "fill"
